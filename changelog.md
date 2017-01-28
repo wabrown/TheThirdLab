@@ -28,16 +28,21 @@ Release Date: Jan 27, 2017
     
 ## Updated Components
 
--   controllers
-
-    -    
-
--   models
-
-    -   
-
 -   views
 
+    -   welcome (DT)
+
+## *Version 1.1*
+
+Release Date: Jan 27, 2017
+
+## New Components
+
+## Updated Components
+
+-   views
+    -   about   (DT)
+    -   gallery (DT)
     -   welcome (DT)
 
 
