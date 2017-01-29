@@ -20,8 +20,27 @@ Release Date: Jan 27, 2017
 
     -   about   (DT)
     -   gallery (DT)
+    
+## Updated Components
+
+-   views
+
+    -   welcome (DT)
 
 ## *Version 1.0.1*
+
+Release Date: Jan 27, 2017
+
+## New Components
+
+## Updated Components
+
+-   views
+    -   about   (DT)
+    -   gallery (DT)
+    -   welcome (DT)
+
+## *Version 1.0.2*
 Added Gpg signing
 
 ## *Version 1.0*
